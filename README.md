@@ -1,16 +1,15 @@
 # newspaper_app
 
-A new Flutter project.
+A Newspaper App integrated with news api (https://newsapi.org/)
 
-## Getting Started
+# Features
+- Get Headline News
+- Get News by Cateogry
+- Search News
 
-This project is a starting point for a Flutter application.
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/71022967/136673849-68bedce5-b85d-4f7e-b561-5daca3c4d089.png" height="400" width="200"/>
+  <img src="https://user-images.githubusercontent.com/71022967/136673857-d69ed1a3-c4ea-4e13-86a6-1b2f85d84360.png" height="400" width="200"/>
+  <img src="https://user-images.githubusercontent.com/71022967/136673935-f13346ce-9ebb-4eb5-ae02-b3da6d6a078f.png" height="400" width="200"/>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
